@@ -4,9 +4,9 @@
 
 <h2>Cursando Análise e Desenvolvimento de Sistemas - UNINTER</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinirafaalfonso&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernanda-Spinardi&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinirafaalfonso&theme=dark&show_icons=true)](https://github.com/vinirafaalfonso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Spinardi&theme=dark&show_icons=true)](https://github.com/Fernanda-Spinardi/github-readme-stats)
 
 <div style="display: inline_block"><br>
 <h2>
